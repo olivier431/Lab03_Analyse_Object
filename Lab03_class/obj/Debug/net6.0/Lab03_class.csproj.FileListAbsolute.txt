@@ -1,0 +1,12 @@
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\bin\Debug\net6.0\Lab03_class.deps.json
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\bin\Debug\net6.0\Lab03_class.dll
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\bin\Debug\net6.0\Lab03_class.pdb
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.csproj.AssemblyReference.cache
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.AssemblyInfoInputs.cache
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.AssemblyInfo.cs
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.csproj.CoreCompileInputs.cache
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.dll
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\refint\Lab03_class.dll
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\Lab03_class.pdb
+C:\Users\oli_4\Desktop\Cegep\Automne 2022\Analyse_objet\Lab03\Lab03_class\obj\Debug\net6.0\ref\Lab03_class.dll
